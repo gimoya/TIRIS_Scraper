@@ -1,4 +1,5 @@
-
+TIRIS_Scraper erzeugt für eine bestimmte Koordinate (GK M28) innerhalb Nord-Tirols eine zeitliche 
+Abfolge von Luftbildaufnahmen.
 -----------------------------------------------------------------------------------------------------
 Verwendung:
 -----------------------------------------------------------------------------------------------------
@@ -6,7 +7,7 @@ Verwendung:
 
 (2) Die Verknüpfung "TIRIS_Scraper" mit Rechts-Klick öffnen und Reiter "Eigenschaften" klicken
 
-(3) Bei "Ziel" Pfad auf .Rdata in Ordner setzen "...\TIRIS_Scraper\.RData
+(3) Bei "Ziel" Pfad auf .Rdata in Ordner setzen "...\TIRIS_Scraper\.RData"
 
 (4) Bei "Ausführen in" auf Pfad zum Ordner setzen "...\TIRIS_Scraper"
 
